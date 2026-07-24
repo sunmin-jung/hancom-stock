@@ -1,7 +1,7 @@
 {
   "name": "usd-krw-brief",
   "description": "환율 브리핑 플러그인",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": {
     "name": "aijinikim"
   },
