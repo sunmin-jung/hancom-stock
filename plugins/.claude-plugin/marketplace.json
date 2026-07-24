@@ -1,0 +1,12 @@
+﻿{
+  "name": "hancom-local",
+  "owner": {
+    "name": "hancom-stock"
+  },
+  "plugins": [
+    {
+      "name": "usd-krw-brief",
+      "source": "./usd-krw-plugin"
+    }
+  ]
+}
