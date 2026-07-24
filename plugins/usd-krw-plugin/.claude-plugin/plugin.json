@@ -1,0 +1,8 @@
+{
+  "name": "usd-krw-brief",
+  "description": "환율 브리핑 플러그인",
+  "version": "1.0.0",
+  "author": {
+    "name": "aijinikim"
+  }
+}

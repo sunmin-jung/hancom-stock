@@ -1,0 +1,14 @@
+{
+  "name": "hancom-stock",
+  "owner": {
+    "name": "aijinikim"
+  },
+  "description": "USD/KRW 환율 플러그인",
+  "plugins": [
+    {
+      "name": "usd-krw-brief",
+      "source": "./plugins/usd-krw-plugin",
+      "description": "환율 브리핑 플러그인"
+    }
+  ]
+}
